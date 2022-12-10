@@ -25,7 +25,7 @@ interface IERC20 {
 contract MDR is IERC20 {
     
     string public constant name = "created by TIMA and SULTAN";
-    string public constant symbol = "BNB";
+    string public constant symbol = "Lab";
     uint8 public constant decimals = 1;
 
 
